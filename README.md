@@ -1,0 +1,1 @@
+# 2025.06-Time_Series_Pattern_Analysis_based_on_Personal_ECG_data_using_HiCardi_measurement_device
