@@ -12,7 +12,7 @@ LSTM으로 다음 시점 전압을 예측해 정상 ECG의 시계열 패턴이 �
 1. Motivation for this research<br>
 2. Topic<br>
 3. FlowChart<br>
-4. <br>
+4. Report<br>
 5. <br>
 
 ---
