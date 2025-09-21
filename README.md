@@ -9,12 +9,16 @@ LSTM으로 다음 시점 전압을 예측해 정상 ECG의 시계열 패턴이 �
 ---
 
 ### 목차
-1. Motivation for this research<br>
-2. Topic<br>
-3. FlowChart<br>
-4. Report<br>
-5. <br>
-
+1. Motivation for this research <br>
+2. FlowChart <br>
+3. Data & HiCardi <br>
+4. PreProcessing <br>
+5. Model <br>
+6. Experiments <br>
+7. Results <br>
+8. Limitations & Future Work <br>
+9. Report <br>
+ 
 ---
 
 ## 1. Motivation for this research
@@ -22,7 +26,7 @@ LSTM으로 다음 시점 전압을 예측해 정상 ECG의 시계열 패턴이 �
 
 ---
 
-## 2. Topic
+## 2. Data & HiCardi
 
 ---
 
